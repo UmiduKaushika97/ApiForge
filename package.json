@@ -9,6 +9,16 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "api",
+    "rest",
+    "http",
+    "postman",
+    "thunder-client",
+    "api-client",
+    "rest-client"
+  ],
+  
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
